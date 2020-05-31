@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "543484666207",
+    "firebase_url": "https://flasch-chat-89434.firebaseio.com",
+    "project_id": "flasch-chat-89434",
+    "storage_bucket": "flasch-chat-89434.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543484666207:android:7a606d528fd87fd97b16ea",
+        "android_client_info": {
+          "package_name": "co.AnasOthman.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "543484666207-ld48v2r0mdmm6nc3ftjp8tph26k3bnun.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB57WY6qeO3pdf9uChIF6eJUYNh5XmMS4g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "543484666207-ld48v2r0mdmm6nc3ftjp8tph26k3bnun.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
